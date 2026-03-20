@@ -297,4 +297,6 @@ Admins can create custom workflows via the Workflows page:
 
 Whisper runs on the backend, so any browser with microphone access can use voice commands.
 The app also falls back to the Web Speech API when configured.
-And The LLM will complie the text into the json file and that will be considered as a task dynamically.
+And The LLM will complie the text into the json file and that will be considered as a task dynamically. 
+
+## changes coming up
